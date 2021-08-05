@@ -6,4 +6,4 @@ Visual Studio Code extension that quickly converts Elixir maps with atom keys in
 
 ## Example
 
-![Example](./example.gif)
+![screenshot](https://github.com/DFilipeS/ex_maps/raw/main/example.gif)
