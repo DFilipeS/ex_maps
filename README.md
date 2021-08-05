@@ -10,4 +10,4 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=DFilipe
 
 ## Example
 
-![screenshot](https://github.com/DFilipeS/ex_maps/raw/main/example.gif)
+![screenshot](https://github.com/DFilipeS/ex_maps/raw/main/assets/example.gif)

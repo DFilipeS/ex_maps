@@ -18,7 +18,7 @@
 		"onCommand:ex-maps.atomToString",
 		"onCommand:ex-maps.stringToAtom"
 	],
-	"main": "./extension.js",
+	"main": "./lib/extension.js",
 	"contributes": {
 		"commands": [
 			{
