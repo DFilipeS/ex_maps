@@ -4,6 +4,10 @@
 
 Visual Studio Code extension that quickly converts Elixir maps with atom keys into string, and vice-versa.
 
+## Installation
+
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=DFilipeS.ex-maps
+
 ## Example
 
 ![screenshot](https://github.com/DFilipeS/ex_maps/raw/main/example.gif)
