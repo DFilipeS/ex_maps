@@ -3,7 +3,7 @@
 	"displayName": "ExMaps",
 	"description": "Quickly convert Elixir maps with atom keys into strings, and vice-versa.",
 	"publisher": "DFilipeS",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/DFilipeS/ex_maps"
