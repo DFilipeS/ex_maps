@@ -1,13 +1,18 @@
 {
 	"name": "ex-maps",
-	"displayName": "ex_maps",
-	"description": "",
+	"displayName": "ExMaps",
+	"description": "Quickly convert Elixir maps with atom keys into strings, and vice-versa.",
+	"publisher": "DFilipeS",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DFilipeS/ex_maps"
+	},
 	"engines": {
 		"vscode": "^1.58.0"
 	},
 	"categories": [
-		"Other"
+		"Formatters"
 	],
 	"activationEvents": [
 		"onCommand:ex-maps.atomToString",
